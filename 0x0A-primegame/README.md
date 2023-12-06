@@ -1,1 +1,2 @@
-# Solutions to the task on 0x0A. Prime Game
+# alx-interview
+0x00. Pascal's Triangle
